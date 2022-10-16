@@ -1,0 +1,12 @@
+ACGAN.ipynb
+ACGAN1.ipynb
+model_big.py
+model.py
+resnet_checkpoint.pth
+checkpoints_nw/**
+checkpoints_w/**
+Data/**
+.tmp.drivedownload/
+.tmp.driveupload/
+.vscode/
+__pycache__/
